@@ -1,0 +1,5 @@
+{
+  "name": "ScrapeScope",
+  "description": "A dark-themed HTML inspector tool. Load scraped HTML, visualize it, and inspect the DOM structure with synchronized highlighting between the visual preview and the code view. Features Gemini AI integration to explain DOM elements.",
+  "requestFramePermissions": []
+}
